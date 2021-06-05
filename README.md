@@ -11,5 +11,8 @@ https://robotframework.org/
 #### dbcli/pgcli
 https://github.com/dbcli/pgcli/
 
+#### Python Testing 
+- Expects [https://github.com/jaimegildesagredo/expects](https://github.com/jaimegildesagredo/expects) <br/>
+- Mamba [https://github.com/nestorsalceda/mamba](https://github.com/nestorsalceda/mamba) <br/>
 
 #### Include Checklist & Green/Red - Pass/Fail Display
