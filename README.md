@@ -14,5 +14,6 @@ https://github.com/dbcli/pgcli/
 #### Python Testing 
 - Expects [https://github.com/jaimegildesagredo/expects](https://github.com/jaimegildesagredo/expects) <br/>
 - Mamba [https://github.com/nestorsalceda/mamba](https://github.com/nestorsalceda/mamba) <br/>
+  [Officieal Manual](https://mamba-bdd.readthedocs.io/en/latest/) <br/>
 
 #### Include Checklist & Green/Red - Pass/Fail Display
