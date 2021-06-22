@@ -22,4 +22,8 @@ Lettuce = [http://lettuce.it/intro/overview.html](http://lettuce.it/intro/overvi
 
 Largely modeled after cucumber, the BDD framework in Ruby which was the first story-based framework in RSpec <br/>
 
+#### Python Test Runners
+Green - [https://github.com/CleanCut/green](https://github.com/CleanCut/green) <br/>
+TestSlide - [https://testslide.readthedocs.io/en/1.4.1/test_runner/](https://testslide.readthedocs.io/en/1.4.1/test_runner/) <br/>
+
 #### Include Checklist & Green/Red - Pass/Fail Display
