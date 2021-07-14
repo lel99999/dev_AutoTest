@@ -14,6 +14,9 @@ https://github.com/dbcli/pgcli/
 #### Psycopg2 PostgreSQL DB Adapter
 [https://pypi.org/project/psycopg2/](https://pypi.org/project/psycopg2/) <br/>
 
+#### Python Visual Profiler
+[https://github.com/nvdv/vprof](https://github.com/nvdv/vprof) <br/>
+
 #### Python Testing 
 - Expects [https://github.com/jaimegildesagredo/expects](https://github.com/jaimegildesagredo/expects) <br/>
 - Mamba [https://github.com/nestorsalceda/mamba](https://github.com/nestorsalceda/mamba) <br/>
