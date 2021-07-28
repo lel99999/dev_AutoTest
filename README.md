@@ -17,10 +17,28 @@ https://github.com/dbcli/pgcli/
 #### Python Visual Profiler
 [https://github.com/nvdv/vprof](https://github.com/nvdv/vprof) <br/>
 
+#### GDB Debugging
+GDB shortcuts
+- r (run): run the program
+- b (break): to set the break point.
+- s (step): step-to-step
+- c (continue): continue the program, this will stop at breakpoint or some trap.
+- l (list): list the code where the program now running.
+- ctrl+x a: open tui mode.
+- ctrl+p: up
+- ctrl+n: down
+
+
 #### Python Testing 
 - Expects [https://github.com/jaimegildesagredo/expects](https://github.com/jaimegildesagredo/expects) <br/>
 - Mamba [https://github.com/nestorsalceda/mamba](https://github.com/nestorsalceda/mamba) <br/>
   [Officieal Manual](https://mamba-bdd.readthedocs.io/en/latest/) <br/>
+
+#### Python HTML
+[https://pypi.org/project/PyHTML/](https://pypi.org/project/PyHTML/) <br/>
+[https://pypi.org/project/htmlgenerator/](https://pypi.org/project/htmlgenerator/) <br/>
+[https://tylerbakke.github.io/MarkupPy/](https://tylerbakke.github.io/MarkupPy/) <br/>
+[https://pythonawesome.com/a-library-to-generate-html-with-python-3/](https://pythonawesome.com/a-library-to-generate-html-with-python-3/) <br/>
 
 #### BDD Frameworks in Python
 Behave - [http://pythonhosted.org/behave](http://pythonhosted.org/behave) <br/>
