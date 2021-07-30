@@ -1,5 +1,5 @@
 def check_ping():
-    hostname = "taylor"
+    hostname = "www.google.com"
     response = os.system("ping -c 1 " + hostname)
     # and then check the response...
     if response == 0:
