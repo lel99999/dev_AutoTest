@@ -76,7 +76,8 @@ def parseODBC():
 
 ### CHECK SQLServer Access
 
-
+                if _port == "1433":
+                    print("database access: " + _database + " - MSSQLServer")
 
     #           print("section: " + SECTION)
     #           for key,value in config[SECTION].items():
