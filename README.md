@@ -42,7 +42,10 @@ GDB shortcuts
 
 #### BDD Frameworks in Python
 Behave - [http://pythonhosted.org/behave](http://pythonhosted.org/behave) <br/>
-Lettuce = [http://lettuce.it/intro/overview.html](http://lettuce.it/intro/overview.html) <br/>
+Lettuce - [http://lettuce.it/intro/overview.html](http://lettuce.it/intro/overview.html) <br/>
+- [https://github.com/gabrielfalcao/lettuce](https://github.com/gabrielfalcao/lettuce) <br/>
+
+pytest-bdd - [https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/](https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/) <br/>
 
 Largely modeled after cucumber, the BDD framework in Ruby which was the first story-based framework in RSpec <br/>
 
